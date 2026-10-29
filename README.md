@@ -1,1 +1,1 @@
-# Main API Docs by Raiymbek
+# Main API Docs and Documentation by Usnadin Raiymbek
